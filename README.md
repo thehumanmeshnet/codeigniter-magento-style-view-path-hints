@@ -19,5 +19,10 @@ Significantly reduces frustration during development and increases productivity.
 
 A much simpler hack would be to interchange the function declaration names view and view2. 
 
+Before: https://drive.google.com/file/d/0B1CPfDa5OHrNWWZSZlE5OGthZWs/view?usp=sharing
+
+After: https://drive.google.com/file/d/0B1CPfDa5OHrNV3V6ZTZtQm9LVlE/view?usp=sharing
+
+What it loks like in magento: https://www.google.com/search?tbm=isch&q=magento+template+path+hints (Pick one... IDK)
 
 Currently Version 0.0.1
